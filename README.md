@@ -14,7 +14,7 @@ StayFit is a modern Android fitness app designed to help you achieve your health
 - 🔔 Exit confirmation to prevent accidental workout interruption
 
 ## Screenshots
-
+![image alt](https://github.com/ankita8317/StayFit/blob/6f493b511d29021bbb3dddfb0e186b9a920569ad/image.jpg)
 
 ## Getting Started
 
